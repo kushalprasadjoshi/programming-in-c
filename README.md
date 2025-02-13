@@ -1,6 +1,6 @@
 # Programming in C - Complete Course Notes 🖥️
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)](https://github.com/KushalPrasadJoshi/core-python-guide/pulls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)](https://github.com/KushalPrasadJoshi/programming-in-c/pulls)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 A structured repository for **Pokhara University's C Programming course** (CMP 124). Contains theory, code examples, practical labs, and project work to help students master C programming from basics to advanced concepts.
@@ -32,7 +32,7 @@ To use these notes and code, you’ll need:
 2. A code editor like [VS Code](https://code.visualstudio.com/) or [Dev-C++](https://sourceforge.net/projects/orwelldevcpp/)).
 3. Git (optional):
    ```bash
-   git clone https://github.com/kushalprasadjoshi/programming-in-c.git
+   git clone https://github.com/KushalPrasadJoshi/programming-in-c.git
    ```
 
 ---
