@@ -30,7 +30,7 @@ A block of statements which performs certain tasks is called function. They may 
 ### 3. Variables
 Variables are initialized memory locations. In these locations data can be stored and manipulated.
 
-### Data Types
+### 4. Data Types
 Data type is a special case given to a variable to store a type of data.  
 **Example:** int, char, float, etc.
 
@@ -64,6 +64,7 @@ int main()  // Your program starts from here
     
 }   // Closing curly brace means ending of the function's body
 ```
+
 **Output:**
 ```output
 Hello World!
@@ -95,6 +96,7 @@ int main()  // Starting main function here
 
 }   // End of program
 ```
+
 **Output:**
 ```output
 Enter two numbers: 2 3
@@ -134,6 +136,7 @@ int main()  // Program's main function starts from here
     return 0; // Returning value
 }
 ```
+
 **Output:**
 ```output
 Enter two numbers: 5 2
@@ -168,6 +171,7 @@ int main()
     return 0;
 }
 ```
+
 **Output:**
 ```output
 Size of (int) = 4
