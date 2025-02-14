@@ -1,4 +1,4 @@
-# Lab 03: Escape Sequence Characters
+# Lab 03: Escape Sequence Characters and Number Systems
 
 ## Objective
 To introduce participants to the basic of escape sequence characters used in C programming and introduce hexadecimal and octal number systems.
