@@ -37,13 +37,13 @@ The operators are types of symbols that informs a compiler for performing some s
 - **Ternary**: Conditional operator (`condition ? true_expr : false_expr`).  
 
 #### By Function:  
-| Operator Type       | Examples                     | Purpose                          |
+| Operator Type        | Examples                     | Purpose                          |
 |----------------------|------------------------------|----------------------------------|
 | **Arithmetic**       | `+`, `-`, `*`, `/`, `%`      | Perform mathematical operations. |
 | **Relational**       | `>`, `<`, `==`, `!=`         | Compare values.                  |
-| **Logical**          | `&&`, `||`, `!`              | Combine boolean conditions.      |
+| **Logical**          | `&&`, `\|\|`, `!`            | Combine boolean conditions.      |
 | **Assignment**       | `=`, `+=`, `-=`, `*=`, `/=`  | Assign values to variables.      |
-| **Bitwise**          | `&`, `|`, `~`, `<<`, `>>`   | Manipulate binary data.          |
+| **Bitwise**          | `&`, `\|`, `~`, `<<`, `>>`   | Manipulate binary data.          |
 | **Conditional**      | `?:`                         | Simplify `if-else` logic.        |
 | **Special**          | `&` (address), `*` (pointer) | Memory management.               |
 
